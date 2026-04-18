@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://areska.vercel.app">
-    <img src="./public/images/readme.jpg" alt="Preview">
-  </a>
+  <img src="./assets/readme.jpg" alt="Areska Preview">
   <p></p>
 </div>
 
